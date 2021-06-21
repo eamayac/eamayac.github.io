@@ -10,50 +10,24 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+-------
+* B.S. in Economics, Pontificia Univesidad Católica del Perú, 2018
+* M.S. in Economics, Universidad de San Andrés (Expected end date: May 2022) 
 
 Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+-------
+* Jan 2021 - Jul 2021: Consultant 
+  * Centro de Estudios y Promoción del Desarrollo (DESCO)
+  * Duties included: Research in consulting projects related to crime economics
+  * Supervisor: Molvina Zevallos
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mar 2016 - Jan 2021: Research Assistant
+  * Universidad San Ignacio de Loyola
+  * Duties included: Research in academic and consulting projects related to health and labor economics
+  * Supervisor: Professor Benoit Mougenot
 
 Publications
-======
+-------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
