@@ -24,7 +24,7 @@ Work experience
 * Mar 2016 - Jan 2021: Research Assistant
   * Universidad San Ignacio de Loyola
   * Duties included: Research in academic and consulting projects related to health and labor economics
-  * Supervisor: Professor Benoit Mougenot
+  * Supervisor: Benoit Mougenot
 
 Publications
 -------
