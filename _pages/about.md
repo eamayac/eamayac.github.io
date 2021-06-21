@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ------
-I'm a Master student in Economics at [Universidad de San Andrés](www.udesa.edu.ar). I also hold a Bachelor in Economics from [Pontificia Universidad Católica del Perú](www.pucp.edu.pe). 
+I'm a Master student in Economics at [Universidad de San Andrés](https://udesa.edu.ar/). I also hold a Bachelor in Economics from [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/). 
 
 My main research interests are applied microeconomics, political economy and gender economics.
 
