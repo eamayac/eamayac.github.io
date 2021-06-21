@@ -26,8 +26,13 @@ Work experience
   * Duties included: Research in academic and consulting projects related to health and labor economics
   * Supervisor: Benoit Mougenot
 
-Publications
+Awards
 -------
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Economic and Social Research Consortium Annual Research Grant, 2021
+  * Research project: Impact evaluation of hotspots program on crime
+ 
+* Economic and Social Research Consortium Annual Research Grant, 2020
+  * Research project: Effects of exclusive breastfeeding on child anemia
+
+* Economic and Social Research Consortium Annual Research Grant, 2018
+  * Research project: Effects of property crime on institutional trust
