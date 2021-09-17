@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-About me
+Welcome!
 ------
 I'm a Master student in Economics at [Universidad de San Andrés](https://udesa.edu.ar/). I also hold a Bachelor in Economics from [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/). 
 
