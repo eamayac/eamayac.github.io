@@ -31,7 +31,7 @@ Publications
 Work in progress
 ---- 
 
-* “Stigma and discrimination in the labor market against physical and mental disabled people: the case of Peru”, (with B. Mougenot and D. C ́ardenas), _unpublished_.
+* “Stigma and discrimination in the labor market against physical and mental disabled people: the case of Peru”, (with B. Mougenot and D. Cárdenas), _unpublished_.
 
 * “Access, promotion and wage inequalities by gender: evidence from public universities in Peru”, (with B. Mougenot, C. Huayanay and A. Olivares), _unpublished_.
 
