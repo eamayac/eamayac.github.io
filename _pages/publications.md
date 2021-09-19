@@ -17,3 +17,10 @@ author_profile: true
 
 Publications
 ---- 
+
+My previous job positions have involved:
+
+* Academia: Teaching and Research Assistant at [USIL](https://investigacion.usil.edu.pe/), [PUCP](https://departamento.pucp.edu.pe/economia/)
+
+
+
