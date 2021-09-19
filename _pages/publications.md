@@ -37,5 +37,5 @@ Work in progress
 
 * “Politica de Salud y Anemia: el Efecto de la Lactancia Materna Exclusiva”, (with B. Mougenot and P. Herrera), [draft version](https://www.cies.org.pe/sites/default/files/investigaciones/politica_de_salud_y_anemia_el_efecto_de_la_lactancia_materna_exclusiva.pdf)
 
-* “¿Es efectivo el uso de la estrategia de hotspots en el Per ́u? Los resultados de la Estrategia Multisectorial Barrio Seguro en la lucha contra el crimen: Una mirada a la criminalidad y percepci ́on de inseguridad” (with A. Cozzubo, J. Cueto and W. Hernández), _unpublished_.
+* “¿Es efectivo el uso de la estrategia de hotspots en el Perú? Los resultados de la Estrategia Multisectorial Barrio Seguro en la lucha contra el crimen: Una mirada a la criminalidad y percepción de inseguridad” (with A. Cozzubo, J. Cueto and W. Hernández), _unpublished_.
 
