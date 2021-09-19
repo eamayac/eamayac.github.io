@@ -17,11 +17,11 @@ I'm a Bachelor in Economics at PUCP (2018)
 
 My previous job positions have involved:
 
-Academia: Teaching and Research Assistant at [USIL](https://investigacion.usil.edu.pe/), [PUCP](https://departamento.pucp.edu.pe/economia/)
+* Academia: Teaching and Research Assistant at [USIL](https://investigacion.usil.edu.pe/), [PUCP](https://departamento.pucp.edu.pe/economia/)
 
-Private Research Organizations: [DESCO](https://www.desco.org.pe/), [Macroconsult](https://grupomacro.pe/macroconsult/), [DEE Consultores](https://deeconsultores.pe/)
+* Private Research Organizations: [DESCO](https://www.desco.org.pe/), [Macroconsult](https://grupomacro.pe/macroconsult/), [DEE Consultores](https://deeconsultores.pe/)
 
-Public institutions: [EsSalud](http://www.essalud.gob.pe/ietsi/), [SUSALUD](https://www.gob.pe/susalud) 
+* Public institutions: [EsSalud](http://www.essalud.gob.pe/ietsi/), [SUSALUD](https://www.gob.pe/susalud) 
 
 
 
