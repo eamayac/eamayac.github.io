@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,30 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-Education
--------
-* B.S. in Economics, Pontificia Univesidad Católica del Perú, 2018
-* M.S. in Economics, Universidad de San Andrés (Expected end date: May 2022) 
+------
+My CV
+------
 
-Work experience
--------
-* Jan 2021 - Jul 2021: Consultant 
-  * Centro de Estudios y Promoción del Desarrollo (DESCO)
-  * Duties included: Research in consulting projects related to crime economics
-  * Supervisor: Molvina Zevallos
-  
-* Mar 2016 - Jan 2021: Research Assistant
-  * Universidad San Ignacio de Loyola
-  * Duties included: Research in academic and consulting projects related to health and labor economics
-  * Supervisor: Benoit Mougenot
+I'm a Bachelor in Economics at PUCP (2018) 
 
-Awards
--------
-* Economic and Social Research Consortium Annual Research Grant, 2021
-  * Research project: Impact evaluation of hotspots program on crime
- 
-* Economic and Social Research Consortium Annual Research Grant, 2020
-  * Research project: Effects of exclusive breastfeeding on child anemia
+My previous job positions have involved:
 
-* Economic and Social Research Consortium Annual Research Grant, 2018
-  * Research project: Effects of property crime on institutional trust
+Academia: Teaching and Research Assistant at [USIL](https://investigacion.usil.edu.pe/), [PUCP](https://departamento.pucp.edu.pe/economia/)
+
+Private Research Organizations: [DESCO](https://www.desco.org.pe/), [Macroconsult](https://grupomacro.pe/macroconsult/), [DEE Consultores](https://deeconsultores.pe/)
+
+Public institutions: [EsSalud](http://www.essalud.gob.pe/ietsi/), [SUSALUD](https://www.gob.pe/susalud) 
+
+Also, you can download my detailed cv [here](https://drive.google.com/file/d/1zqN_dNkhWTJrx26vuswofQFgZbkFs4iG/view?usp=sharing)
+
+
