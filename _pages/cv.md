@@ -13,7 +13,7 @@ redirect_from:
 My CV
 ------
 
-I'm a Bachelor in Economics at PUCP (2018) 
+I'm a Bachelor in Economics at PUCP (2017) 
 
 My previous job positions have involved:
 
