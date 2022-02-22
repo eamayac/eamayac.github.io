@@ -10,9 +10,9 @@ redirect_from:
 
 Welcome to my site
 ------
-I'm a Master Student in Economics at [Universidad de San Andrés](https://udesa.edu.ar/). I'm currently working at [Universidad Torcuato Di Tella](https://www.utdt.edu/listado_contenidos.php?id_item_menu=25278) as a Research Assistant and at [Universidad de San Andrés](https://udesa.edu.ar/) as a Teaching Assistant. I also hold a Bachelor in Economics from [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/). 
+I'm a Master Student in Economics at [Universidad de San Andrés](https://udesa.edu.ar/). I'm currently working as a Research Assistant at [Universidad Torcuato Di Tella](https://www.utdt.edu/listado_contenidos.php?id_item_menu=25278) and as a Teaching Assistant at Universidad de San Andrés. I also hold a Bachelor in Economics from [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/). 
 
-My main research interests are applied microeconomics, crimen, health and gender economics.
+My main research interests are applied microeconomics, crime, health and gender economics.
 
 My previous job positions have involved:
 
