@@ -10,19 +10,19 @@ redirect_from:
 
 Welcome to my site
 ------
-I'm a Master Student in Economics at [Universidad de San Andrés (UdeSA)](https://udesa.edu.ar/). I'm currently working as a Research Assistant at [Universidad Torcuato Di Tella (UTDT)](https://www.utdt.edu/listado_contenidos.php?id_item_menu=25278) and as a Teaching Assistant at UdeSA. I also hold a Bachelor in Economics from [Pontificia Universidad Católica del Perú (PUCP)](https://www.pucp.edu.pe/).
+I'm a Master Student in Economics at Universidad de San Andrés (UdeSA). I'm currently working as a Research Assistant at Universidad Torcuato Di Tella (UTDT) and as a Teaching Assistant at UdeSA. I also hold a Bachelor in Economics from Pontificia Universidad Católica del Perú (PUCP).
 
-My main research interests are applied microeconomics, crime, health and gender economics.
+My main research interests are crime, health and gender economics.
 
 My previous job positions have involved:
 
-* Academia: Teaching and Research Assistant at [USIL](https://investigacion.usil.edu.pe/), [PUCP](https://departamento.pucp.edu.pe/economia/)
+* Academia: Teaching and Research Assistant at USIL, PUCP
 
-* Private Research Organizations: [DESCO](https://www.desco.org.pe/), [Macroconsult](https://grupomacro.pe/macroconsult/)
+* Private Research Organizations: DESCO, Macroconsult
 
-* Multilateral Organizations: [IADB](https://www.iadb.org/es/acceso-informacion/inicio), [DEval](https://www.deval.org/en/)
+* Multilateral Organizations: IADB, DEval
 
-* Public institutions: [EsSalud](http://www.essalud.gob.pe/ietsi/), [SUSALUD](https://www.gob.pe/susalud), [Ministerio Público Fiscal](https://www.mpf.gob.ar/)
+* Public institutions: EsSalud, SUSALUD, Ministerio Público Fiscal
 
 Also, you can download my detailed cv [here](https://drive.google.com/file/d/1-b8X43uTASDCfHJgB3TuWkWJxVoFYtla/view?usp=sharing)
 
