@@ -31,11 +31,11 @@ Publications
 Work in progress
 ---- 
 
-* “Stigma and discrimination in the labor market against physical and mental disabled people: the case of Peru”, (with B. Mougenot and D. Cárdenas), _unpublished_.
-
-* “Access, promotion and wage inequalities by gender: evidence from public universities in Peru”, (with B. Mougenot, C. Huayanay and A. Olivares), _unpublished_.
+* “¿Es efectivo el uso de la estrategia de hotspots en el Perú? Los resultados de la Estrategia Multisectorial Barrio Seguro en la lucha contra el crimen: Una mirada a la criminalidad y percepción de inseguridad” (with A. Cozzubo, J. Cueto and W. Hernández), [draft version](https://cies.org.pe/sites/default/files/investigaciones/resultados_de_la_estrategia_multisectorial_barrio_seguro_en_la_lucha_contra_el_crimen_una_mirada_a_la_criminalidad_y_percepcion_de_inseguridad.pdf)
 
 * “Politica de Salud y Anemia: el Efecto de la Lactancia Materna Exclusiva”, (with B. Mougenot and P. Herrera), [draft version](https://www.cies.org.pe/sites/default/files/investigaciones/politica_de_salud_y_anemia_el_efecto_de_la_lactancia_materna_exclusiva.pdf)
 
-* “¿Es efectivo el uso de la estrategia de hotspots en el Perú? Los resultados de la Estrategia Multisectorial Barrio Seguro en la lucha contra el crimen: Una mirada a la criminalidad y percepción de inseguridad” (with A. Cozzubo, J. Cueto and W. Hernández), _unpublished_.
+* “Stigma and discrimination in the labor market against physical and mental disabled people: the case of Peru”, (with B. Mougenot and D. Cárdenas), _unpublished_.
+
+
 
