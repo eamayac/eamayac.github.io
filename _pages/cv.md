@@ -25,6 +25,6 @@ My previous job positions have involved:
 
 
 
-Also, you can download my detailed cv [here](https://drive.google.com/file/d/1-b8X43uTASDCfHJgB3TuWkWJxVoFYtla/view?usp=sharing)
+Also, you can download my detailed cv [here](https://drive.google.com/file/d/1397GKKfQzFkfDsTpbT84oVtHnzXrbPpm/view)
 
 
