@@ -12,7 +12,7 @@ Welcome to my site
 ------
 I'm a Master Student in Economics at Universidad de San Andrés (UdeSA). I'm currently working as a Research Assistant at Universidad Torcuato Di Tella (UTDT) and as a Teaching Assistant at UdeSA. I also hold a Bachelor in Economics from Pontificia Universidad Católica del Perú (PUCP).
 
-My main research interests are crime, health and gender economics.
+My main research interests are health, crime and political economy.
 
 My previous job positions have involved:
 
