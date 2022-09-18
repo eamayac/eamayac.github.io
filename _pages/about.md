@@ -24,7 +24,7 @@ My previous job positions have involved:
 
 * Public institutions: EsSalud, SUSALUD, Ministerio Público Fiscal
 
-Also, you can download my detailed cv [here](https://drive.google.com/file/d/1397GKKfQzFkfDsTpbT84oVtHnzXrbPpm/view)
+Also, you can download my detailed cv [here](https://www.dropbox.com/s/5gxs6n53u4sdvv5/cv_eamaya.pdf?dl=0)
 
 Contact me at:
 [elard.amaya@gmail.com](mailto:elard.amaya@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
