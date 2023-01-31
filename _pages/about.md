@@ -10,9 +10,7 @@ redirect_from:
 
 Welcome to my site
 ------
-I'm a Master Student in Economics at Universidad de San Andrés (UdeSA). I'm currently working as Research and Teaching Assistant at Universidad Torcuato Di Tella (UTDT) and UdeSA. I also hold a Bachelor in Economics from Pontificia Universidad Católica del Perú (PUCP).
-
-My main research interests are health, crime and political economy.
+I hold a Master in Economics from the Universidad de San Andrés (UdeSA). I'm currently working as Research and Teaching Assistant at Universidad Torcuato Di Tella (UTDT) and UdeSA. My main research interests are health, crime and political economy.
 
 My previous job positions have involved:
 
@@ -24,7 +22,7 @@ My previous job positions have involved:
 
 * Public institutions: EsSalud, SUSALUD, Ministerio Público Fiscal
 
-Also, you can download my detailed cv [here](https://www.dropbox.com/s/5gxs6n53u4sdvv5/cv_eamaya.pdf?dl=0)
+Also, you can download my detailed CV [here](https://www.dropbox.com/s/5gxs6n53u4sdvv5/cv_eamaya.pdf?dl=0)
 
 Contact me at:
 [elard.amaya@gmail.com](mailto:elard.amaya@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
