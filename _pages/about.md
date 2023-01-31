@@ -14,13 +14,11 @@ I hold a Master in Economics from the Universidad de San Andrés (UdeSA). I'm cu
 
 My previous job positions have involved:
 
-* Academia: Teaching and Research Assistant at USIL, PUCP
+* Academia: Teaching and Research Assistant at USIL and PUCP
 
-* Private Research Organizations: DESCO, Macroconsult
+* Public institutions: Economic consultant at EsSalud, SUSALUD and Ministerio Público Fiscal
 
-* Multilateral Organizations: IADB, DEval
-
-* Public institutions: EsSalud, SUSALUD, Ministerio Público Fiscal
+* Multilateral Organizations: Economic consultant at IADB and DEval
 
 Also, you can download my detailed CV [here](https://www.dropbox.com/s/5gxs6n53u4sdvv5/cv_eamaya.pdf?dl=0)
 
