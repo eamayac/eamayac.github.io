@@ -28,14 +28,14 @@ Publications
 
 * “The gender differences in highly paid wage: a case study of Peruvian physicians”, (with B. Mougenot), _**Cadernos de Saude Publica**_, 2019. DOI: [https://doi.org/10.1590/0102-311X00043018](https://doi.org/10.1590/0102-311X00043018)
 
-Work in progress
+Working papers
 ---- 
+* “It’s a matter of trust: corruption scandals and political discontent in pandemic times”, [draft version](https://repositorio.udesa.edu.ar/jspui/bitstream/10908/22976/1/%5bP%5d%5bW%5d%20T.%20M.%20Eco.%20Amaya%2c%20Elard.pdf)
 
-* “¿Es efectivo el uso de la estrategia de hotspots en el Perú? Los resultados de la Estrategia Multisectorial Barrio Seguro en la lucha contra el crimen: Una mirada a la criminalidad y percepción de inseguridad” (with A. Cozzubo, J. Cueto and W. Hernández), [draft version](https://cies.org.pe/sites/default/files/investigaciones/resultados_de_la_estrategia_multisectorial_barrio_seguro_en_la_lucha_contra_el_crimen_una_mirada_a_la_criminalidad_y_percepcion_de_inseguridad.pdf)
+* “¿Es efectivo el uso de la estrategia de hotspots en el Perú? Los resultados de la Estrategia Multisectorial Barrio Seguro en la lucha contra el crimen: Una mirada a la criminalidad y percepción de inseguridad” (with A. Cozzubo, J. Cueto and W. Hernández), [draft version in spanish](https://cies.org.pe/sites/default/files/investigaciones/resultados_de_la_estrategia_multisectorial_barrio_seguro_en_la_lucha_contra_el_crimen_una_mirada_a_la_criminalidad_y_percepcion_de_inseguridad.pdf)
 
-* “Politica de Salud y Anemia: el Efecto de la Lactancia Materna Exclusiva”, (with B. Mougenot and P. Herrera), [draft version](https://www.cies.org.pe/sites/default/files/investigaciones/politica_de_salud_y_anemia_el_efecto_de_la_lactancia_materna_exclusiva.pdf)
+* “Politica de Salud y Anemia: el Efecto de la Lactancia Materna Exclusiva”, (with B. Mougenot and P. Herrera), [draft version in spanish](https://www.cies.org.pe/sites/default/files/investigaciones/politica_de_salud_y_anemia_el_efecto_de_la_lactancia_materna_exclusiva.pdf)
 
-* “Stigma and discrimination in the labor market against physical and mental disabled people: the case of Peru”, (with B. Mougenot and D. Cárdenas), _unpublished_.
 
 
 
