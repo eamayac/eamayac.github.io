@@ -12,11 +12,11 @@ Welcome!
 ------
 I am working as a Research Assistant at Universidad Torcuato Di Tella (UTDT) and as a Teaching Assistant at Universidad de San Andrés (UdeSA). Originally from Peru, I hold a B.A. in Economics from PUCP and an M.A. in Economics from UdeSA.
 
-My main research interests are development, health, crime and political economy.
+My main research interests are Development, Health, Crime and Political economy.
 
 My previous job positions have involved:
 
-* Academia: Teaching and Research Assistant at USIL and PUCP
+* Academia: Teaching and Research Assistant at UTDT, USIL and PUCP
 
 * Public institutions: Economic consultant at EsSalud, SUSALUD, Ministerio Público Fiscal and CONCYTEC
 
