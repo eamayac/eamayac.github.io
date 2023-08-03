@@ -10,15 +10,15 @@ redirect_from:
 
 Welcome!
 ------
-In Fall 2023, I'll start my Ph.D. in Economics at Collegio Carlo Alberto & University of Turin. Originally from Peru, I hold a B.A. in Economics from Pontificia Universidad Católica de Perú and an M.A. in Economics from Universidad de San Andrés.
+I am a Ph.D. student in Economics at Collegio Carlo Alberto (CCA) & University of Turin. Originally from Peru, I hold a B.A. in Economics from Pontificia Universidad Católica de Perú (PUCP) and an M.A. in Economics from Universidad de San Andrés (UdeSA).
 
-My major areas of interest encompass Development, Crime, Political economy and Health.
+Before joining the CCA, I was a Research Assistant at Universidad Torcuato Di Tella and Teaching Assistant at UdeSA.
 
-My previous job positions have involved:
-
-* Academic: Teaching and Research Assistant at UTDT, UdeSA, USIL and PUCP.
-* Public institutions: Economic consultant at EsSalud, SUSALUD, Ministerio Público Fiscal and CONCYTEC.
-* Multilateral Organizations: Economic consultant at IADB and DEval.
+Fields of interest 
+------
+* Development Economics
+* Economics of Crime
+* Political Economy
 
 You can find my detailed CV [here](https://www.dropbox.com/s/5gxs6n53u4sdvv5/cv_eamaya.pdf?dl=0)
 
