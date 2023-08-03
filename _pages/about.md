@@ -10,17 +10,15 @@ redirect_from:
 
 Welcome!
 ------
-I am working as a Research Assistant at Universidad Torcuato Di Tella (UTDT) and as a Teaching Assistant at Universidad de San Andrés (UdeSA). Originally from Peru, I hold a B.A. in Economics from PUCP and an M.A. in Economics from UdeSA.
+In Fall 2023, I'll start my Ph.D. in Economics at Collegio Carlo Alberto & University of Turin. Originally from Peru, I hold a B.A. in Economics from Pontificia Universidad Católica de Perú and an M.A. in Economics from Universidad de San Andrés.
 
-My main research interests are Development, Health, Crime and Political economy.
+My major areas of interest encompass Development, Crime, Political economy and Health.
 
 My previous job positions have involved:
 
-* Academia: Teaching and Research Assistant at UTDT, USIL and PUCP
-
-* Public institutions: Economic consultant at EsSalud, SUSALUD, Ministerio Público Fiscal and CONCYTEC
-
-* Multilateral Organizations: Economic consultant at IADB and DEval
+* Academic: Teaching and Research Assistant at UTDT, UdeSA, USIL and PUCP.
+* Public institutions: Economic consultant at EsSalud, SUSALUD, Ministerio Público Fiscal and CONCYTEC.
+* Multilateral Organizations: Economic consultant at IADB and DEval.
 
 You can find my detailed CV [here](https://www.dropbox.com/s/5gxs6n53u4sdvv5/cv_eamaya.pdf?dl=0)
 
