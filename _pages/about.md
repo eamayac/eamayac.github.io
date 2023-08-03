@@ -15,10 +15,11 @@ I am a Ph.D. student in Economics at Collegio Carlo Alberto (CCA) & University o
 Before joining the CCA, I was a Research Assistant at Universidad Torcuato Di Tella and Teaching Assistant at UdeSA.
 
 Fields of interest 
-------
+-----
 * Development Economics
 * Economics of Crime
 * Political Economy
+
 
 You can find my detailed CV [here](https://www.dropbox.com/s/5gxs6n53u4sdvv5/cv_eamaya.pdf?dl=0)
 
