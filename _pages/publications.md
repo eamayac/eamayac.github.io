@@ -27,8 +27,8 @@ Publications
 
 Working papers
 ---- 
-* “It’s a Matter of Trust: Corruption Scandals and Political Discontent in Peru”, _* submitted *_
-* “Hot spot policing in the Global South: Crime victimization, fear of crime, and citizens’ view of police”, _* submitted *_
+* “It’s a Matter of Trust: Corruption Scandals and Political Discontent in Peru”, _*submitted*_
+* “Hot spot policing in the Global South: Crime victimization, fear of crime, and citizens’ view of police”, _*submitted*_
 
 
 
