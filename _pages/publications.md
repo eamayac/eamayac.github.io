@@ -34,7 +34,7 @@ Work in progress
 ---- 
 * Inclusive Education Policies and Political Attitudes
 * Crime Prevention and Mental Health
-* Natural disaster and Domestic Violence
+* Natural Disasters and Domestic Violence
 
 
 
