@@ -32,7 +32,7 @@ Working papers
 
 Work in progress
 ---- 
-* Inclusive Educational Policies and Political Attitudes
+* Inclusive Education Policies and Political Attitudes
 * Crime Prevention and Mental Health
 * Natural disaster and Domestic Violence
 
