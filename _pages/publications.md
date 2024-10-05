@@ -17,19 +17,24 @@ author_profile: true
 
 Publications
 ---- 
-* “The social costs of crime: erosion of trust between citizens and public institutions”, (with A. Cozzubo and J. Cueto), _**Economics of Governance**_, 2021. DOI: [https://doi.org/10.1007/s10101-021-00251-0](https://doi.org/10.1007/s10101-021-00251-0)
+* The social costs of crime: erosion of trust between citizens and public institutions (with A. Cozzubo and J. Cueto). _Economics of Governance_, 2021. DOI: [https://doi.org/10.1007/s10101-021-00251-0](https://doi.org/10.1007/s10101-021-00251-0)
 
-* “Immigration, perceived discrimination and mental health: evidence from Venezuelan population living in Peru”, (with B. Mougenot, E. Mezones, A. Rodriguez and B. Cabieses), _**Globalization and Health**_, 2021. DOI: [https://doi.org/10.1186/s12992-020-00655-3](https://doi.org/10.1186/s12992-020-00655-3)
+* Immigration, perceived discrimination and mental health: evidence from Venezuelan population living in Peru (with B. Mougenot, E. Mezones, A. Rodriguez and B. Cabieses). _Globalization and Health_, 2021. DOI: [https://doi.org/10.1186/s12992-020-00655-3](https://doi.org/10.1186/s12992-020-00655-3)
 
-* “Gender disparities in scientific production: A nationwide assessment among physicians in Peru”, (with B. Mougenot and P. Herrera), _**PLoS ONE**_, 2019. DOI: [https://doi.org/10.1371/journal.pone.0224629](https://doi.org/10.1371/journal.pone.0224629)
+* Gender disparities in scientific production: A nationwide assessment among physicians in Peru (with B. Mougenot and P. Herrera). _PLoS ONE_, 2019. DOI: [https://doi.org/10.1371/journal.pone.0224629](https://doi.org/10.1371/journal.pone.0224629)
 
-* “The gender differences in highly paid wage: a case study of Peruvian physicians”, (with B. Mougenot), _**Cadernos de Saude Publica**_, 2019. DOI: [https://doi.org/10.1590/0102-311X00043018](https://doi.org/10.1590/0102-311X00043018)
+* The gender differences in highly paid wage: a case study of Peruvian physicians (with B. Mougenot). _Cadernos de Saude Publica_, 2019. DOI: [https://doi.org/10.1590/0102-311X00043018](https://doi.org/10.1590/0102-311X00043018)
 
 Working papers
 ---- 
-* “It’s a Matter of Trust: Corruption Scandals and Political Discontent in Peru”, _submitted_
-* “Hot spot policing in the Global South: Crime victimization, fear of crime, and citizens’ view of police”, _submitted_
+* It’s a Matter of Trust: Corruption Scandals and Political Discontent in Peru, _submitted_
+* Hot Spot Policing in the Global South: Crime Victimization, Fear of Crime, and Citizens’ View of Police, _submitted_
 
+Work in progress
+---- 
+* Inclusive Educational Policies and Political Attitudes
+* Crime Prevention and Mental Health
+* Natural disaster and Domestic Violence
 
 
 
