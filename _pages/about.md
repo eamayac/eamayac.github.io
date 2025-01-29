@@ -7,7 +7,7 @@ author_profile: true
 
 # Welcome!
 
-<div style="text-align: justify"> I am a Ph.D. student in Economics at Collegio Carlo Alberto and University of Turin. Originally from Peru, I hold a B.A. in Economics from Pontificia Universidad Católica de Perú (PUCP) and an M.A. in Economics from Universidad de San Andrés (UdeSA). Before moving Turin, I was a Research and Teaching Assistant at Universidad Torcuato Di Tella and UdeSA. </div>
+<div style="text-align: justify"> I am a Ph.D. student in Economics at Collegio Carlo Alberto and University of Turin. Originally from Peru, I hold a B.A. in Economics from Pontificia Universidad Católica de Perú (PUCP) and an M.A. in Economics from Universidad de San Andrés (UdeSA). Before moving to Turin, I was a Research and Teaching Assistant at Universidad Torcuato Di Tella and UdeSA. </div>
 
 ## Fields of interest 
 
