@@ -23,7 +23,7 @@ Working papers
 
 Publications
 ---- 
-* The social costs of crime: erosion of trust between citizens and public institutions (with A. Cozzubo and J. Cueto). _Economics of Governance_, 2021. DOI: [https://doi.org/10.1007/s10101-021-00251-0](https://doi.org/10.1007/s10101-021-00251-0)
+* The social costs of crime: erosion of trust between citizens and public institutions (with A. Cozzubo and J. Cueto). __Economics of Governance__, 2021. DOI: [https://doi.org/10.1007/s10101-021-00251-0](https://doi.org/10.1007/s10101-021-00251-0)
 
 * Immigration, perceived discrimination and mental health: evidence from Venezuelan population living in Peru (with B. Mougenot, E. Mezones, A. Rodriguez and B. Cabieses). _Globalization and Health_, 2021. DOI: [https://doi.org/10.1186/s12992-020-00655-3](https://doi.org/10.1186/s12992-020-00655-3)
 
@@ -33,8 +33,8 @@ Publications
 
 Work in progress
 ---- 
-* Natural Disasters and Domestic Violence
-* Corruption and Mental Health
+* Natural Disasters and Domestic Violence (with M. Tambussi) 
+* Corruption and Mental Health (with D. Auer)
 * Inclusive Education Policies and Political Attitudes
 
 
