@@ -7,9 +7,9 @@ author_profile: true
 
 # Welcome!
 
-<div style="text-align: justify"> I am a PhD student in Economics at the University of Turin and a Doctoral Fellow at the Collegio Carlo Alberto, working under the supervision of [Elena Esposito](https://www.elenaesposito.com/) and [Giovanni Mastrobuoni](https://sites.google.com/site/giovannimastrobuoni/).
+I am a PhD student in Economics at the University of Turin and a Doctoral Fellow at the Collegio Carlo Alberto, working under the supervision of [Elena Esposito](https://www.elenaesposito.com/) and [Giovanni Mastrobuoni](https://sites.google.com/site/giovannimastrobuoni/).
   
-Originally from Peru, I hold a B.A. in Economics from Pontificia Universidad Católica del Perú (PUCP) and an M.A. in Economics from Universidad de San Andrés (UdeSA). </div>
+Originally from Peru, I hold a B.A. in Economics from Pontificia Universidad Católica del Perú (PUCP) and an M.A. in Economics from Universidad de San Andrés (UdeSA).
 
 ## Fields of interest 
 
