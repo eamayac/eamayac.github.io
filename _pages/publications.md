@@ -18,8 +18,8 @@ author_profile: true
 Working papers
 ---- 
 * Beyond Crime: How Public Safety Programs Improve Mental Health (with A. Aparicio Fenoll and Silvia Mendolia), _submitted_
+* When Extreme Weather Hits Home: Huaicos and Gender-Based Violence in Peru (with M. Tambussi), _submitted_
 * It’s a matter of trust: non-monetary corruption scandals and political discontent in Peru, _draft coming soon_
-* When Extreme Weather Hits Home: Huaicos and Gender-Based Violence in Peru (with M. Tambussi), _draft coming soon_
 * Political Corruption Scandals and their Strain on Public Mental Health (with D. Auer), _draft coming soon_
 
 Publications
