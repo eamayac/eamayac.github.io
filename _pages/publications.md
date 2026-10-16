@@ -17,9 +17,36 @@ author_profile: false
 
 Working papers
 ---- 
-* Safer Streets, Healthier Minds: Evidence from a Crime Prevention Program in Peru (with A. Aparicio Fenoll and Silvia Mendolia), _submitted_
-* When Extreme Weather Hits Home: Huaicos and Gender-Based Violence in Peru (with M. Tambussi), _submitted_
-* Political Corruption Scandals and their Strain on Public Mental Health (with D. Auer), _draft coming soon_
+<ul class="papers">
+
+<li>
+  Beyond Crime: How Public Safety Programs Improve Mental Health (with A. Aparicio Fenoll and Silvia Mendolia), <em>submitted</em>
+  <div class="paper-info">paper XXXX</div>
+  <details class="paper-abstract">
+    <summary>Feb 2026, Working paper <span class="paper-btn">[Abstract]</span> <a href="ENLACE_PDF">[PDF]</a></summary>
+    <p>Escribe aquí el abstract.</p>
+  </details>
+</li>
+
+<li>
+  When Extreme Weather Hits Home: Huaicos and Gender-Based Violence in Peru (with M. Tambussi), <em>submitted</em>
+  <div class="paper-info">paper XXXX</div>
+  <details class="paper-abstract">
+    <summary>Feb 2026, Working paper <span class="paper-btn">[Abstract]</span> <a href="ENLACE_PDF">[PDF]</a></summary>
+    <p>Escribe aquí el abstract.</p>
+  </details>
+</li>
+
+<li>
+  Political Corruption Scandals and their Strain on Public Mental Health (with D. Auer), <em>draft coming soon</em>
+  <div class="paper-info">paper XXXX</div>
+  <details class="paper-abstract">
+    <summary>Feb 2026, Working paper <span class="paper-btn">[Abstract]</span> <a href="ENLACE_PDF">[PDF]</a></summary>
+    <p>Escribe aquí el abstract.</p>
+  </details>
+</li>
+
+</ul>
 
 Work in progress
 ---- 
