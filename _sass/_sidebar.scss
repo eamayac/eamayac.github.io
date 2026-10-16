@@ -262,3 +262,18 @@
     }
   }
 }
+
+/*
+   Páginas sin barra lateral: el contenido usa todo el ancho
+   ========================================================================== */
+
+@include breakpoint($large) {
+  #main:not(:has(.sidebar)) .page,
+  #main:not(:has(.sidebar)) .archive {
+    width: 100%;
+    margin-left: 0;
+    padding-left: 0;
+    padding-right: 0;
+    float: none;
+  }
+}
