@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Elard Amaya"
   avatar           : "eac.jpg"
-  bio              : "Economist"
-  location         : "Turin, Italy"
+  bio              : "PhD student in Economics"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "eamayac"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "https://orcid.org/0000-0003-4899-0616"
+  linkedin         : "elard-amaya-bb80bb104"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
