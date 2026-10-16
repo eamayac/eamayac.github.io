@@ -52,9 +52,11 @@ Working papers
 
 Work in progress
 ---- 
-* Crime and Child Health (with A. Aparicio Fenoll and Silvia Mendolia)
 * Internet and LGBTQ+ rights
+* Crime and Child Health (with A. Aparicio Fenoll and Silvia Mendolia)
+* Community Mental Health Care and Psychological Well-being (with J. Cueto)
 * Inclusive Education Policies and Political Attitudes
+* Teacher Training and the Math Gender Gap (with many authors)
 
 Pre-Doctoral Publications
 ---- 
