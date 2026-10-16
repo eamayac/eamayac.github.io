@@ -13,23 +13,16 @@
   @include clearfix();
   margin-bottom: 1em;
 
-/* Centrar la información bajo la foto y poner los enlaces en una fila */
-@include breakpoint($large) {
-  .author__avatar,
-  .author__content,
-  .author__urls-wrapper {
-    text-align: center;
-  }
+  @include breakpoint($large) {
+    @include span(2 of 12);
+    opacity: 1;
+    -webkit-transition: opacity 0.2s ease-in-out;
+            transition: opacity 0.2s ease-in-out;
 
-  .author__urls {
-    padding-left: 0;
-
-    li {
-      display: inline-block;
-      margin: 0 0.5em;
+    &:hover {
+      opacity: 1;
     }
   }
-}
 
 
   @include breakpoint($x-large) {
