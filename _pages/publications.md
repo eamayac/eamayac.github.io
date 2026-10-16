@@ -28,6 +28,7 @@ Working papers
   </details>
 </li>
 
+
 <li>
   When Extreme Weather Hits Home: Huaicos and Gender-Based Violence in Peru (with M. Tambussi) 
   <div class="paper-info"> <em>Submitted</em> </div>
@@ -36,6 +37,7 @@ Working papers
     <p> This paper examines how huaicos—climate-induced extreme weather events increasingly frequent in Andean countries—affect intimate partner violence (IPV). We link a database containing the geocodes of huaicos with the Peruvian Demographic and Health Survey for the 2010–2019 period. Using a sample of eventually treated women and exploiting the gradual and exogenous occurrence of these events, our results show that exposure to high-intensity huaicos increases both general and physical IPV by 21–26%. An event-study analysis reveals that these effects are persistent and intensify over time. Potential mechanisms include increased partners’ alcohol consumption, deteriorated women’s mental health, higher informal employment, and lower wages.</p>
   </details>
 </li>
+
 
 <li>
   Political Corruption Scandals and their Strain on Public Mental Health
