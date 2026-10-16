@@ -20,11 +20,11 @@ Working papers
 <ul class="papers">
 
 <li>
-  Beyond Crime: How Public Safety Programs Improve Mental Health (with A. Aparicio Fenoll and Silvia Mendolia)
+  Safer Streets, Healthier Minds: Evidence from a Crime Prevention Program in Peru (with A. Aparicio Fenoll and Silvia Mendolia)
   <div class="paper-info"> <em>Revise and Resubmit</em>, <strong><em>Journal of Public Economics</em></strong> </div>
   <details class="paper-abstract">
-    <summary>Feb 2026, Working paper <span class="paper-btn">[Abstract]</span> <a href="ENLACE_PDF">[PDF]</a></summary>
-    <p>Escribe aquí el abstract.</p>
+    <summary>Aug 2026, Working paper <span class="paper-btn">[Abstract]</span> <a href="https://www.dropbox.com/scl/fi/w1y7edbktli2gkyep1qr0/crime_mental_Ainoa.pdf?rlkey=tafwk172blmhx34qiqcee0k6n&st=kiv014lp&dl=0">[PDF]</a></summary>
+    <p> Can public safety interventions improve mental health? While a large literature shows that crime and perceived insecurity are associated with psychological distress, less is known about whether policy-induced improvements in local safety conditions translate into better mental health. We study this question using Peru’s Safe Neighborhood program, a large-scale crime prevention intervention that increased police patrolling in targeted urban neighborhoods. Exploiting the program’s staggered implementation across neighborhoods, we find that increased police presence improved mental health indices by about 0.13 standard deviations and reduced the incidence of moderate or severe depression. We document concurrent reductions in victimization, increases in perceived national police presence, and improvements in healthcare utilization and employment, suggesting that the welfare gains from public safety policies extend beyond crime reduction.</p>
   </details>
 </li>
 
