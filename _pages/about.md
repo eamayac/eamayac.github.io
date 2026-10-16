@@ -7,7 +7,7 @@ author_profile: true
 
 # Welcome!
 
-I am a PhD student in Economics at the University of Turin and a Doctoral Fellow at the Collegio Carlo Alberto, working under the supervision of [Elena Esposito](https://www.elenaesposito.com/) and [Giovanni Mastrobuoni](https://sites.google.com/site/giovannimastrobuoni/). I visited the Economics Department at the Queen Mary University of London in winter/spring 2026, hosted by [Marco Manacorda](https://sites.google.com/site/marcomanacorda/).
+I am a PhD student in Economics at the University of Turin and a Doctoral Fellow at the Collegio Carlo Alberto, working under the supervision of [Elena Esposito](https://www.elenaesposito.com/) and [Giovanni Mastrobuoni](https://sites.google.com/site/giovannimastrobuoni/). In winter/spring 2026, I was a visiting PhD Student in the Economics Department at Queen Mary University of London, hosted by [Marco Manacorda](https://sites.google.com/site/marcomanacorda/).
   
 My research focuses on the intersection of development economics, political economy, and economics of crime. 
 
