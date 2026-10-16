@@ -20,8 +20,8 @@ Working papers
 <ul class="papers">
 
 <li>
-  Beyond Crime: How Public Safety Programs Improve Mental Health (with A. Aparicio Fenoll and Silvia Mendolia) 
-  <em>submitted</em>
+  Beyond Crime: How Public Safety Programs Improve Mental Health (with A. Aparicio Fenoll and Silvia Mendolia)
+  <div class="paper-info"> <em>submitted</em></div>
   <details class="paper-abstract">
     <summary>Feb 2026, Working paper <span class="paper-btn">[Abstract]</span> <a href="ENLACE_PDF">[PDF]</a></summary>
     <p>Escribe aquí el abstract.</p>
