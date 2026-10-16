@@ -21,7 +21,7 @@ Working papers
 
 <li>
   Beyond Crime: How Public Safety Programs Improve Mental Health (with A. Aparicio Fenoll and Silvia Mendolia)
-  <div class="paper-info"> <em>Revise and Resubmit</em> , <strong><em>Journal of Public Economics</em></strong> </div>
+  <div class="paper-info"> <em>Revise and Resubmit</em>, <strong><em>Journal of Public Economics</em></strong> </div>
   <details class="paper-abstract">
     <summary>Feb 2026, Working paper <span class="paper-btn">[Abstract]</span> <a href="ENLACE_PDF">[PDF]</a></summary>
     <p>Escribe aquí el abstract.</p>
