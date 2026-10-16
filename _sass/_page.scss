@@ -399,3 +399,20 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/*
+   Color de los enlaces del contenido
+   ========================================================================== */
+
+.page__content a,
+.archive a {
+  color: #1f4e79;
+
+  &:hover {
+    color: #0f2d4a;
+  }
+
+  &:visited {
+    color: #3a6a96;
+  }
+}
