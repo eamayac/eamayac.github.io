@@ -17,12 +17,17 @@ author_profile: false
 
 Working papers
 ---- 
-* Beyond Crime: How Public Safety Programs Improve Mental Health (with A. Aparicio Fenoll and Silvia Mendolia), _submitted_
+* Safer Streets, Healthier Minds: Evidence from a Crime Prevention Program in Peru (with A. Aparicio Fenoll and Silvia Mendolia), _submitted_
 * When Extreme Weather Hits Home: Huaicos and Gender-Based Violence in Peru (with M. Tambussi), _submitted_
-* It’s a matter of trust: non-monetary corruption scandals and political discontent in Peru, _draft coming soon_
 * Political Corruption Scandals and their Strain on Public Mental Health (with D. Auer), _draft coming soon_
 
-Publications
+Work in progress
+---- 
+* Crime and Child Health (with A. Aparicio Fenoll and Silvia Mendolia)
+* Internet and LGBTQ+ rights
+* Inclusive Education Policies and Political Attitudes
+
+Pre-Doctoral Publications
 ---- 
 * The social costs of crime: erosion of trust between citizens and public institutions (with A. Cozzubo and J. Cueto). ___Economics of Governance___, 2021. DOI: [https://doi.org/10.1007/s10101-021-00251-0](https://doi.org/10.1007/s10101-021-00251-0)
 
@@ -31,12 +36,4 @@ Publications
 * Gender disparities in scientific production: A nationwide assessment among physicians in Peru (with B. Mougenot and P. Herrera). ___PLoS ONE___, 2019. DOI: [https://doi.org/10.1371/journal.pone.0224629](https://doi.org/10.1371/journal.pone.0224629)
 
 * The gender differences in highly paid wage: a case study of Peruvian physicians (with B. Mougenot). ___Cadernos de Saude Publica___, 2019. DOI: [https://doi.org/10.1590/0102-311X00043018](https://doi.org/10.1590/0102-311X00043018)
-
-Work in progress
----- 
-* Crime and Child Health (with A. Aparicio Fenoll and Silvia Mendolia)
-* Internet and LGBTQ+ rights
-* Inclusive Education Policies and Political Attitudes
-
-
 
