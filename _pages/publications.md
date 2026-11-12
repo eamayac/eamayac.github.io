@@ -63,7 +63,7 @@ Working papers
 Work in progress
 ---- 
 * Internet and LGBTQ+ rights
-* Community Mental Health Care and Psychological Well-being (with J. Cueto)
+* Welfare Gains of Community Mental Health Centers (with J. Cueto)
 * Inclusive Education Policies and Political Attitudes
 * Teacher Training and the Math Gender Gap (with A. Aparicio Fenoll, D. Contini, M.L. Di Tommaso, D. Piazzalunga, S. Mendolia, G. Savio, A.Solis Alonso, E. Rettore, L. Rocco)
 
