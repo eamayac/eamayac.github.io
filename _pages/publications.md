@@ -40,6 +40,16 @@ Working papers
 
 
 <li>
+  Mass Migration and Natives’ Mental Health: Evidence from the Venezuelan Migration Crisis
+  <div class="paper-info"> <em>Draft coming soon!</em> </div>
+  <details class="paper-abstract">
+    <summary>Nov 2026, Working paper <span class="paper-btn">[Abstract]</span></summary>
+    <p> This paper studies the effects of Venezuelan immigration on natives’ mental health in Peru, the second-largest host country for Venezuelan migrants since the onset of the humanitarian crisis. I exploit the fact that forced migrants disproportionately settle in locations with established Venezuelan communities following the intensification of the crisis. I find that natives living in provinces with a higher share of Venezuelan immigrants experience poorer mental health. These effects appear both in standardized indices of mental health problems and in the probability of reporting depressive symptoms. I explore several potential channels and provide suggestive evidence that immigration is associated with adverse labor market outcomes, changes in crime perceptions, and more limited access to healthcare.</p>
+  </details>
+</li>
+
+
+<li>
   Political Corruption Scandals and their Strain on Public Mental Health
   <div class="paper-info"> <em>Draft coming soon!</em> </div>
   <details class="paper-abstract">
