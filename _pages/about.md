@@ -11,7 +11,7 @@ I am a PhD student in Economics at the University of Turin and a Doctoral Fellow
   
 My research focuses on the intersection of development economics, political economy, and economics of crime. 
 
-You can find my CV [here](https://www.dropbox.com/s/5gxs6n53u4sdvv5/cv_eamaya.pdf?dl=0)
+You can find my CV [here](https://www.dropbox.com/scl/fi/qtfzzcqsw8058yuxiihi8/cv_eamaya.pdf?rlkey=3x27de4xe1ngql3jz730rbrdl&st=27uwcp58&dl=0)
 
 Contact me at:
 [elard.amaya@carloalberto.org](mailto:elard.amaya@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
